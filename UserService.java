@@ -19,7 +19,7 @@ public class UserService  implements UserDetailsService{
 		
 		
 
-		return new User("madhu","pavan", new ArrayList<>());
+		return new User("naga","venkata", new ArrayList<>());
 
 	}
 
